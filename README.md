@@ -1,10 +1,10 @@
-# Hi, I'm Ola! 👋
+# Hi, I'm Ola!
 
 I am a third-year **Data Science** student at the **Faculty of Mathematics and Information Science, Warsaw University of Technology**. In my free time, I enjoy **running**🏃‍♀️, **playing the violin**🎻, and exploring **mountains**⛰️. I am passionate about combining mathematics, programming, and data to solve interesting problems, and I love learning new technologies and improving my skills every day.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **Programming Languages:** Python, R, SQL, Java
 * **Data Science & ML:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
