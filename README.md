@@ -10,7 +10,7 @@ I am a third-year **Data Science** student at the **Faculty of Mathematics and I
 * **Data Science & ML:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
 * **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Shiny
 * **Version Control & Collaboration:** Bitbucket, GitHub
-* **Other:** Jupyter Notebook, VS Code
+* **Other:** Jupyter Notebook, VS Code, RStudio, Pycharm, IntelliJ
 
 ---
 
