@@ -1,6 +1,6 @@
 # Hi, I'm Ola!
 
-I am a third-year **Data Science** student at the **Faculty of Mathematics and Information Science, Warsaw University of Technology**. In my free time, I enjoy **running**🏃‍♀️, **playing the violin**🎻 and exploring **mountains**⛰️. I am passionate about combining mathematics and programming to solve interesting problems. I love learning new technologies and improving my skills every day.
+I'm a third-year **Data Science** student at the **Faculty of Mathematics and Information Science at Warsaw University of Technology**. In my free time, I enjoy **running**🏃‍♀️, **playing the violin**🎻, and exploring **mountains**⛰️. I am passionate about combining mathematics and programming to solve interesting problems. I love learning new technologies and improving my skills every day.
 
 ---
 
@@ -20,6 +20,6 @@ I am a third-year **Data Science** student at the **Faculty of Mathematics and I
 * [Bitewise](https://github.com/Ola-zaw/Bitewise) 
 * [Walutozaur](https://github.com/Ola-zaw/Walutozaur)
 * [Algebra in Set](https://github.com/Ola-zaw/Algebra-in-SET)
-* [KPC2](https://github.com/Ola-zaw/KPC2)
+* [KPC-2](https://github.com/Ola-zaw/KPC2)
 * [Machine Learning](https://github.com/Ola-zaw/Machine-Learning)
 * [Numerical Methods](https://github.com/Ola-zaw/Numerical-Methods)
