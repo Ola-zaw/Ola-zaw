@@ -1,6 +1,6 @@
 # Hi, I'm Ola!
 
-I'm a third-year **Data Science** student at the **Faculty of Mathematics and Information Science at Warsaw University of Technology**. In my free time, I enjoy **running**🏃‍♀️, **playing the violin**🎻, and exploring **mountains**⛰️. I am passionate about combining mathematics and programming to solve interesting problems. I love learning new technologies and improving my skills every day.
+I'm a third-year **Data Science** student at the **Faculty of Mathematics and Information Science at Warsaw University of Technology**. In my free time, I enjoy running 🏃‍♀️, playing the violin 🎻, and exploring mountains ⛰️. I am passionate about combining mathematics and programming to solve interesting problems. I love learning new technologies and improving my skills every day.
 
 ---
 
@@ -14,13 +14,14 @@ I'm a third-year **Data Science** student at the **Faculty of Mathematics and In
 
 ---
 
-## 📂 Projects
+## Projects
 
 * [Tunability of ML Algorithms](https://github.com/Ola-zaw/Tunability-of-ML-Algorithms)
+* [MINI-AutoML](https://github.com/Ola-zaw/MINI-AutoML)
 * [Share a part, save a heart](https://github.com/Ola-zaw/Share-a-part-save-a-heart) 
 * [Bitewise](https://github.com/Ola-zaw/Bitewise) 
-* [Walutozaur](https://github.com/Ola-zaw/Walutozaur)
 * [Smart Budget](https://github.com/Ola-zaw/Smart_Budget)
+* [Walutozaur](https://github.com/Ola-zaw/Walutozaur)
 * [Algebra in Set](https://github.com/Ola-zaw/Algebra-in-SET)
 * [KPC-2](https://github.com/Ola-zaw/KPC2)
 * [Machine Learning](https://github.com/Ola-zaw/Machine-Learning)
