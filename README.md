@@ -7,10 +7,10 @@ I'm a third-year **Data Science** student at the **Faculty of Mathematics and In
 ## Tools & Technologies
 
 * **Programming Languages:** Python, R, SQL, Java
-* **Data Science & ML:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
-* **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Shiny
+* **Data Science & ML:** NumPy, Pandas, Scikit-learn, PyTorch
+* **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Shiny, Power BI
 * **Version Control & Collaboration:** Bitbucket, GitHub
-* **Other:** Jupyter Notebook, VS Code, RStudio, Pycharm, IntelliJ
+* **Other:** Jupyter Notebook, VS Code, RStudio, Pycharm, IntelliJ, SSMS, SSIS 
 
 ---
 
